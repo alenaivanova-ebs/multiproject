@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.htp.StringUtilsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-14T20:09:58" hostname="EPBYMINW4542" time="0.025">
+  <properties/>
+  <testcase name="testEmptyValueIsPositiveNumberMethodShouldReturnFalse()" classname="by.htp.StringUtilsTest" time="0.017"/>
+  <testcase name="testNegativeIsPositiveNumberMethodShouldReturnFalse()" classname="by.htp.StringUtilsTest" time="0.0"/>
+  <testcase name="testZeroValueIsPositiveNumberMethodShouldReturnFalse()" classname="by.htp.StringUtilsTest" time="0.002"/>
+  <testcase name="testNumbersIsPositiveNumberMethodShouldReturnTrue()" classname="by.htp.StringUtilsTest" time="0.0"/>
+  <testcase name="testStringIsPositiveNumberMethodShouldReturnFalse()" classname="by.htp.StringUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
